@@ -4,6 +4,7 @@
   "description": "Automatically hit the enroll button in beartracks",
   "main": "bt.js",
   "scripts": {
+    "start": "node bt.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
