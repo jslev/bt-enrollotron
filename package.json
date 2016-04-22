@@ -1,0 +1,15 @@
+{
+  "name": "btenroller",
+  "version": "1.0.0",
+  "description": "Automatically hit the enroll button in beartracks",
+  "main": "bt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies":
+    {
+      "selenium-webdriver": "latest"
+    }
+}
