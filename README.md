@@ -9,4 +9,4 @@ Because of time restrictions on enrolment and high demand for classes. This take
 
 # How
 Install `chromedriver`, `npm install`, then put your "username" and "password" in `config.json`.
-Run with `npm start`
+Run with `npm start`. Maybe stick it on a cron job (at your own risk).
